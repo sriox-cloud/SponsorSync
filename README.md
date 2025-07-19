@@ -5,7 +5,7 @@
 
 SponsorSync is a comprehensive sponsor relationship management platform designed to streamline how events, clubs, or organizations interact with sponsors. Built with a modern full-stack architecture, it offers a responsive dashboard, secure sponsor file handling, and scalable sponsor management workflows.
 
-> 🚀 **Live Demo (Optional):** _Coming Soon or hosted link_
+> 🚀 **Live Demo (Optional):** https://sponsorsync.vercel.app/
 
 ---
 
