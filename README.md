@@ -8,6 +8,16 @@ SponsorSync is a comprehensive sponsor relationship management platform designed
 > 🚀 **Live Demo (Optional):** https://sponsorsync.vercel.app/
 
 ---
+### 📸 Dashboard Overview
+
+![Sponsor List](https://i.ibb.co/ymJWJm0V/Screenshot-2025-07-20-032916.png)
+
+
+
+### 📸 Sponsor Upload Form
+
+![Sponsor Upload](https://i.ibb.co/gZT47n1z/Screenshot-2025-07-20-032949.png)
+
 
 ## 📌 Key Features
 
@@ -146,16 +156,6 @@ The app will be available at `http://localhost:3000`.
 
 ---
 
-## 📸 Screenshots
-
-> (Add this if you have UI preview images)
-
-```markdown
-![Dashboard View](https://your-image-link.com/dashboard.jpg)
-![Sponsor Upload](https://your-image-link.com/upload.jpg)
-```
-
----
 
 ## 🧑‍💻 Author
 
