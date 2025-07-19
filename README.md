@@ -51,6 +51,14 @@ sponsorsync-app/
 ├── styles/              # Styling (Tailwind)
 └── config/              # App configs
 
+
+
+
+
+
+
+
+
 ````
 
 ---
